@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Thanks for visiting my GitHub profile. It's great to meet you here!😄
 
 <!--
 **JonnieWayy/JonnieWayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
