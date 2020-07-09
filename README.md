@@ -1,6 +1,12 @@
-### Hi there 👋
-### Thanks for visiting my GitHub profile. It's great to meet you here!😄
-
+### Hi there. 👋
+### Thanks for visiting. 😏
+Some quick things about me:
++ 🔭 Undergraduate at NjTech University.
++ 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
++ 😑 Having a cute girlfriend.
++ 🏀 Dalla Mavericks Fan.
++ 📫 The best way to reach me is to send me an email.
++ ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 <!--
 **JonnieWayy/JonnieWayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
