@@ -1,5 +1,5 @@
-### Hi there. 👋
-### Thanks for visiting. 😏
+**Hi there.** 👋  
+**Thanks for visiting.** 😏  
 Some quick things about me:
 + 🔭 Undergraduate at NjTech University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
