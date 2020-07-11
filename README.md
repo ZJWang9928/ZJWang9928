@@ -4,7 +4,7 @@ Some quick things about me:
 + 🔭 Undergraduate at NjTech University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 😑 Having a cute girlfriend.
-+ 🏀 Dalla Mavericks Fan.
++ 🏀 Dallas Mavericks Fan.
 + 📫 The best way to reach me is to send me an email.
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 <!--
