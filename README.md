@@ -1,7 +1,7 @@
 **Hi there.** 👋  
 **Thanks for visiting.** 😏  
 Some quick things about me:
-+ 🔭 Undergraduate at NjTech University.
++ 🔭 Undergraduate at Njtech University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 😑 Having a cute girlfriend.
 + 🏀 Dallas Mavericks Fan.
