@@ -1,3 +1,5 @@
+<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/2.gif" height="50px" width="100%" />
+
 **Hi there.** 👋  
 **Thanks for visiting.** 😏  
 Some quick things about me:
@@ -9,6 +11,9 @@ Some quick things about me:
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 
 [![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
+
+<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/3.gif" height="50px" width="100%" />
+
 
 <!--
 **JonnieWayy/JonnieWayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
