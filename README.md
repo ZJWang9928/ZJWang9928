@@ -8,7 +8,7 @@ Some quick things about me:
 + 📫 The best way to reach me is to send me an email.
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 
-[![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&show_icons=true)](https://github.com/JonnieWayy)
+[![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
 
 <!--
 **JonnieWayy/JonnieWayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
