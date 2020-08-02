@@ -1,4 +1,4 @@
-<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/2.gif" height="50px" width="100%" />
+<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/src/imgs/2.gif" height="50px" width="100%" />
 
 **Hi there.** 👋  
 **Thanks for visiting.** 😏  
@@ -12,7 +12,7 @@ Some quick things about me:
 
 [![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
 
-<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/3.gif" height="50px" width="100%" />
+<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/src/imgs/3.gif" height="50px" width="100%" />
 
 
 <!--
