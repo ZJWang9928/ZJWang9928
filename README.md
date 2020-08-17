@@ -19,7 +19,8 @@ Some quick things about me:
 [![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
 -->
 
-### 🌱 Visitor Count 🌱 <img src="https://profile-counter.glitch.me/JonnieWayy/count.svg" />
+### 🌱 Visitor Count 🌱
+<img src="https://profile-counter.glitch.me/JonnieWayy/count.svg" />
 
 <img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/3.gif" height="50px" width="100%" />
 
