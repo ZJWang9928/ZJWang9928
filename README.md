@@ -1,8 +1,13 @@
 <img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" height="50px" width="100%" />
 
+
+
 **Hi there.** 👋  
 **Thanks for visiting.** 😏  
 Some quick things about me:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical">
+
 + 🔭 Undergraduate at Njtech University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 😑 Having a cute girlfriend.
@@ -10,7 +15,9 @@ Some quick things about me:
 + 📫 The best way to reach me is to send me an email.
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 
+<!--
 [![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
+-->
 
 ### 🌱 Visitor Count 🌱 <img src="https://profile-counter.glitch.me/JonnieWayy/count.svg" />
 
