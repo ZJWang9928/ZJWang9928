@@ -8,7 +8,7 @@ Some quick things about me:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical">
 
-+ 🔭 Undergraduate at Njtech University.
++ 🔭 Postgraduate at Njtech University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 😑 Having a cute girlfriend.
 + 🏀 Dallas Mavericks Fan.
