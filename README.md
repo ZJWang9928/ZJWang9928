@@ -19,6 +19,14 @@ Some quick things about me:
 [![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)](https://github.com/JonnieWayy)
 -->
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JonnieWayy&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnieWayy&theme=radical&hide_border=False" /> </div>
+
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/JonnieWayy?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JonnieWayy&theme=xcode" /> </div>
+
 ### 🌱 Visitor Count 🌱
 <img src="https://profile-counter.glitch.me/JonnieWayy/count.svg" />
 
