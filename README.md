@@ -16,7 +16,7 @@ Some quick things about me:
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 
 <!--
-[![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True)](https://github.com/JonnieWayy)
+[![Zijie Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True)](https://github.com/JonnieWayy)
 -->
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JonnieWayy&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
