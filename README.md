@@ -25,7 +25,7 @@ Some quick things about me:
 
 🖋 **Zijie Wang**, et al. 2022. Look Before You Leap: Improving Text-based Person Retrieval by Learning A Consistent Cross-modal Common Manifold. Accepted by the 30th ACM International Conference on Multimedia. (**CCF A, First Author**)
 
-🖋 **Zijie Wang**, et al. 2022. SUM: Serialized Updating and Matching for text-based person retrieval. Knowledge-Based Systems 248 (2022), 108891. (**IF=8.139, First Author**)
+🖋 **Zijie Wang**, et al. 2022. SUM: Serialized Updating and Matching for Text-based Person Retrieval. Knowledge-Based Systems 248 (2022), 108891. (**IF=8.139, First Author**)
 
 🖋 Aichun Zhu, **Zijie Wang**, et al. 2021. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval. In Proceedings of the 29th ACM International Conference on Multimedia. 209–217. (**CCF A, Oral, First Student Author**)
 
