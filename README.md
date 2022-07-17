@@ -19,7 +19,7 @@ Some quick things about me:
 [![Zijie Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True)](https://github.com/JonnieWayy)
 -->
 
-**Select Publications:**
+**Selected Publications:**
 
 🖋 **Zijie Wang**, et al. 2022. CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval. Accepted by the 30th ACM International Conference on Multimedia. (**CCF A, First Author**)
 
