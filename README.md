@@ -12,7 +12,7 @@ Some quick things about me:
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 😑 Having a cute girlfriend.
 + 🏀 Dallas Mavericks Fan.
-+ 📫 The best way to reach me is to send me an email.
++ 📫 The best way to reach me is to <a href="mailto:zijiewang9928@gmail.com">send me an email</a>.
 + ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
 
 <!--
