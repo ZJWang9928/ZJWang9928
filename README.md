@@ -26,6 +26,8 @@ Some quick things about me:
 
 🖋 **Zijie Wang**, et al. 2022. SUM: Serialized Updating and Matching for Text-based Person Retrieval. Knowledge-Based Systems 248 (2022), 108891. (**IF=8.139, First Author**)
 
+🖋 **Zijie Wang**, et al. 2022. ASPD-Net: Self-aligned part mask for improving text-based person re-identification with adversarial representation learning. Engineering Applications of Artificial Intelligence, Volume 116, 2022, 105419. (**IF=7.802, First Author**)
+
 🖋 Aichun Zhu, **Zijie Wang**, et al. 2021. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval. In Proceedings of the 29th ACM International Conference on Multimedia. 209–217. (**CCF A, Oral, First Student Author**)
 
 🖋 **Zijie Wang**, et al. 2021. AMEN: Adversarial Multi-space Embedding Network for Text-Based Person Re-identification. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, 462–473. (**First Author**) 
