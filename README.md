@@ -20,9 +20,9 @@ Some quick things about me:
 
 **Selected Publications:**
 
-🖋 **Zijie Wang**, et al. 2022. CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval. Accepted by the 30th ACM International Conference on Multimedia. (**CCF A, First Author**)
+🖋 **Zijie Wang**, et al. 2022. CAIBC: Capturing All-round Information Beyond Color for Text-based Person Retrieval. In Proceedings of the 30th ACM International Conference on Multimedia. 5314-5322. (**CCF A, First Author**)
 
-🖋 **Zijie Wang**, et al. 2022. Look Before You Leap: Improving Text-based Person Retrieval by Learning A Consistent Cross-modal Common Manifold. Accepted by the 30th ACM International Conference on Multimedia. (**CCF A, First Author**)
+🖋 **Zijie Wang**, et al. 2022. Look Before You Leap: Improving Text-based Person Retrieval by Learning A Consistent Cross-modal Common Manifold. In Proceedings of the 30th ACM International Conference on Multimedia. 1984-1992. (**CCF A, First Author**)
 
 🖋 **Zijie Wang**, et al. 2022. SUM: Serialized Updating and Matching for Text-based Person Retrieval. Knowledge-Based Systems 248 (2022), 108891. (**IF=8.139, First Author**)
 
@@ -30,7 +30,7 @@ Some quick things about me:
 
 🖋 Aichun Zhu, **Zijie Wang**, et al. 2021. DSSL: Deep Surroundings-person Separation Learning for Text-based Person Retrieval. In Proceedings of the 29th ACM International Conference on Multimedia. 209–217. (**CCF A, Oral, First Student Author**)
 
-🖋 **Zijie Wang**, et al. 2021. AMEN: Adversarial Multi-space Embedding Network for Text-Based Person Re-identification. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, 462–473. (**First Author**) 
+🖋 **Zijie Wang**, et al. 2021. AMEN: Adversarial Multi-space Embedding Network for Text-Based Person Re-identification. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, 462–473. (**CCF C, First Author**) 
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JonnieWayy&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
 
