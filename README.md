@@ -12,7 +12,7 @@ Some quick things about me:
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 🏀 Dallas Mavericks Fan.
 + 📫 The best way to reach me is to <a href="mailto:zijiewang9928@gmail.com">send me an email</a>.
-+ ⚡ Welcome to visit [My Blog](http://jonathanwayy.xyz/).
++ ⚡ Welcome to visit [My Blog](http://wzj.life/).
 
 <!--
 [![Zijie Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True)](https://github.com/JonnieWayy)
