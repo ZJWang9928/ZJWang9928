@@ -12,7 +12,7 @@ Some quick things about me:
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 🏀 Dallas Mavericks Fan.
 + 📫 The best way to reach me is to <a href="mailto:zijiewang9928@gmail.com">send me an email</a>.
-+ ⚡ Welcome to visit [My Blog](http://wzj.life/).
+<!-- + ⚡ Welcome to visit [My Blog](http://wzj.life/). -->
 
 <!--
 [![Zijie Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True)](https://github.com/JonnieWayy)
@@ -38,7 +38,7 @@ Some quick things about me:
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/JonnieWayy?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZJWang9928&theme=xcode" /> </div>
+<!--<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZJWang9928&theme=xcode" /> </div> -->
 
 ### 🌱 Visitor Count 🌱
 <img src="https://profile-counter.glitch.me/ZJWang9928/count.svg" />
