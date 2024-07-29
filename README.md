@@ -8,7 +8,7 @@ Some quick things about me:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True&show_icons=True">
 
-+ 🔭 Postgraduate at Njtech University.
++ 🔭 PhD at Sun Yat-sen University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 🏀 Dallas Mavericks Fan.
 + 📫 The best way to reach me is to <a href="mailto:zijiewang9928@gmail.com">send me an email</a>.
@@ -32,18 +32,18 @@ Some quick things about me:
 
 🖋 **Zijie Wang**, et al. 2021. AMEN: Adversarial Multi-space Embedding Network for Text-Based Person Re-identification. In Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, 462–473. (**CCF C, First Author**) 
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JonnieWayy&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ZJWang9928&theme=darkhub&row=1&column=7&no-frame=True&no-bg=False" /> </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonnieWayy&theme=radical&hide_border=False" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZJWang9928&theme=radical&hide_border=False" /> </div>
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/JonnieWayy?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=JonnieWayy&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZJWang9928&theme=xcode" /> </div>
 
 ### 🌱 Visitor Count 🌱
-<img src="https://profile-counter.glitch.me/JonnieWayy/count.svg" />
+<img src="https://profile-counter.glitch.me/ZJWang9928/count.svg" />
 
-<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/3.gif" height="50px" width="100%" />
+<img style="height:50px;width:100%;" src="https://github.com/ZJWang9928/ZJWang9928/blob/master/src/imgs/3.gif" height="50px" width="100%" />
 
 
 <!--
