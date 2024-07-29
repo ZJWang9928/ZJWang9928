@@ -6,7 +6,7 @@
 **Thanks for visiting.** 😏  
 Some quick things about me:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical&include_all_commits=True&show_icons=True">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZJWang9928&count_private=true&show_icons=true&theme=radical&include_all_commits=True&show_icons=True">
 
 + 🔭 PhD at Sun Yat-sen University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
