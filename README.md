@@ -8,7 +8,7 @@ Some quick things about me:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZJWang9928&count_private=true&show_icons=true&theme=radical&include_all_commits=True&show_icons=True">
 
-+ 🔭 PhD at Sun Yat-sen University.
++ 🔭 Doctoral student at Sun Yat-sen University.
 + 🧑‍💻 Coder, Vimer, CVer, Zealous ArchLinux Lover.
 + 🏀 Dallas Mavericks Fan.
 + 📫 The best way to reach me is to <a href="mailto:zijiewang9928@gmail.com">send me an email</a>.
